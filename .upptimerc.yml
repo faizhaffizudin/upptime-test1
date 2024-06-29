@@ -5,6 +5,8 @@ repo: upptime-test1 # The name of this repository
 sites:
   - name: Staging
     url: https://devdroid.petronas.com
+  - name: Staging1
+    url: https://devdroid.petronas.com/#/home
   - name: Wikipedia
     url: https://en.wikipedia.org
   # - name: Hacker News
