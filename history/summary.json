@@ -4,36 +4,40 @@
     "url": "https://devdroid.petronas.com",
     "icon": "https://icons.duckduckgo.com/ip3/devdroid.petronas.com.ico",
     "slug": "staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1879,
-    "timeDay": 4395,
-    "timeWeek": 1879,
-    "timeMonth": 1879,
-    "timeYear": 1879,
-    "dailyMinutesDown": {}
+    "time": 1805,
+    "timeDay": 2732,
+    "timeWeek": 1805,
+    "timeMonth": 1805,
+    "timeYear": 1805,
+    "dailyMinutesDown": {
+      "2024-07-05": 0
+    }
   },
   {
     "name": "Staging1",
     "url": "https://devdroid.petronas.com/#/home",
     "icon": "https://icons.duckduckgo.com/ip3/devdroid.petronas.com.ico",
     "slug": "staging1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 357,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
-    "dailyMinutesDown": {}
+    "time": 268,
+    "timeDay": 456,
+    "timeWeek": 268,
+    "timeMonth": 268,
+    "timeYear": 268,
+    "dailyMinutesDown": {
+      "2024-07-05": 0
+    }
   },
   {
     "name": "Wikipedia",
