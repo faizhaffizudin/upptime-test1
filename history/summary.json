@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/devdroid.petronas.com.ico",
     "slug": "staging",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 1774,
-    "timeDay": 2301,
-    "timeWeek": 1774,
-    "timeMonth": 1774,
-    "timeYear": 1774,
-    "dailyMinutesDown": {
-      "2024-07-05": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1734,
+    "timeDay": 1251,
+    "timeWeek": 1734,
+    "timeMonth": 1734,
+    "timeYear": 1734,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Staging1",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/devdroid.petronas.com.ico",
     "slug": "staging1",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 268,
-    "timeDay": 393,
-    "timeWeek": 268,
-    "timeMonth": 268,
-    "timeYear": 268,
-    "dailyMinutesDown": {
-      "2024-07-05": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 266,
+    "timeDay": 355,
+    "timeWeek": 266,
+    "timeMonth": 266,
+    "timeYear": 266,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 382,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "time": 225,
+    "timeDay": 360,
+    "timeWeek": 225,
+    "timeMonth": 225,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   }
 ]
