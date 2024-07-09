@@ -4,9 +4,9 @@
     "url": "https://devdroid.petronas.com",
     "icon": "https://icons.duckduckgo.com/ip3/devdroid.petronas.com.ico",
     "slug": "staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,25 +15,29 @@
     "timeWeek": 1597,
     "timeMonth": 1639,
     "timeYear": 1639,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-09": 0
+    }
   },
   {
     "name": "Staging1",
     "url": "https://devdroid.petronas.com/#/home",
     "icon": "https://icons.duckduckgo.com/ip3/devdroid.petronas.com.ico",
     "slug": "staging1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 190,
-    "timeWeek": 273,
-    "timeMonth": 250,
-    "timeYear": 250,
-    "dailyMinutesDown": {}
+    "time": 278,
+    "timeDay": 446,
+    "timeWeek": 316,
+    "timeMonth": 278,
+    "timeYear": 278,
+    "dailyMinutesDown": {
+      "2024-07-09": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -42,17 +46,15 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
     "timeDay": 259,
     "timeWeek": 239,
     "timeMonth": 215,
     "timeYear": 215,
-    "dailyMinutesDown": {
-      "2024-07-09": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
